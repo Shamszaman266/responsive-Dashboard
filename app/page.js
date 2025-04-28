@@ -79,7 +79,7 @@ export default function Home() {
         <Sidebar setActiveTab={setActiveTab} />
 
         {/* Main Area */}
-        <main className="flex-1 p-6 space-y-6">
+        <main className="flex-1 p-6 space-y-6 text-gray-800">
           
           {/* Top Cards */}
           
